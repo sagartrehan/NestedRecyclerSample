@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Microwave oven",
+    "price": "3500",
+    "thumbnail_id": "thumb_microwave"
+  },
+  {
+    "id": 2,
+    "name": "Television",
+    "price": "35000",
+    "thumbnail_id": "thumb_television"
+  },
+  {
+    "id": 3,
+    "name": "Vacuum Cleaner",
+    "price": "1500",
+    "thumbnail_id": "thumb_vacuum_cleaner"
+  }
+]

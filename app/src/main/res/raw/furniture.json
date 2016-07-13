@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Table",
+    "price": "800",
+    "thumbnail_id": "thumb_table"
+  },
+  {
+    "id": 2,
+    "name": "Chair",
+    "price": "500",
+    "thumbnail_id": "thumb_chair"
+  },
+  {
+    "id": 3,
+    "name": "Almirah",
+    "price": "1500",
+    "thumbnail_id": "thumb_almirah"
+  }
+]

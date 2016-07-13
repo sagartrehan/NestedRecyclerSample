@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EcommerceSample</string>
+
+    <!-- Drawer Layout -->
+    <string name="electronics">Electronics</string>
+    <string name="furniture">Furniture</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Product Details Activity -->
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="remove_from_Cart">Remove From Cart</string>
+    <string name="price">%s Rs</string>
+
+    <!-- Action Menu -->
+    <string name="action_menu_cart">Cart Details</string>
+
+    <!-- Cart -->
+    <string name="cart_total_amount">Total Amount: %s</string>
+    <string name="empty_cart">No product available in cart.</string>
+
+</resources>

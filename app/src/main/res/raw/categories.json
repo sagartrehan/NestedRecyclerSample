@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "details_path": "electronics"
+  },
+  {
+    "id": 2,
+    "name": "Furniture",
+    "details_path": "furniture"
+  }
+]
